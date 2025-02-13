@@ -1,3 +1,3 @@
 # SocialLinks
 
-https://kashishoza.github.io/SocialLinks/
+https://sociallinksite.netlify.app/
